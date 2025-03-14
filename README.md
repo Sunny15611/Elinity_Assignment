@@ -1,7 +1,9 @@
 # Elinity_Assignment
 Flask API and LLM based Recommendation System
 
- 
+# Technology Used:
+# Q1. Flask 
+# Q2. Llama3.1:70b (Through together API, faiss( vector database),Sentence-transformer, Gradio for Interface 
 
 
 ## Please see the Demo video 
