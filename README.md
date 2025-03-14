@@ -3,4 +3,4 @@ Flask API and LLM based Recommendation System
 
 
 ## Please see the Demo video 
-[![Watch the video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/OjKQF2fnEEg?si=F7tBpD3kbeOJbXJ5))
+[![Watch the video](https://img.youtube.com/vi/OjKQF2fnEEg/0.jpg)](https://youtu.be/OjKQF2fnEEg)
